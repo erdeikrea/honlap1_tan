@@ -6,4 +6,7 @@
 	margin: 4px;
 	position: fixed;
 	left: 80%;
+	text-decoration: inherit;
+	letter-spacing: inherit;
+	color: #3333CC;
 }
